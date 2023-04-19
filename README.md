@@ -1,2 +1,2 @@
-# contribution-cwti-cscl-exploring-role-of-security-transaction-security-research
-Skills and knowledge required to be a successful security engineer in transaction security research.
+# Exploring the Role of a Security Engineer in Transaction Security Research
+As the world becomes more digital, the demand for secure transactions is growing. Transactions are happening at an unprecedented rate, and it is essential to ensure that these transactions are secure. The role of a security engineer in transaction security research is critical in this regard. In this article, we will discuss the skills and knowledge required to be a successful security engineer in transaction security research.
